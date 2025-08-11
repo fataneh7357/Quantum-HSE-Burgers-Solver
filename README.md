@@ -1,7 +1,8 @@
-# Quantum-HSE-Burgers-Solver
-The HSE framework is used in this resource-efficient quantum solver for the 1D viscous Burgers' equation. Its features include validation against traditional CFD baselines, real QPU execution with error mitigation, and noiseless/noisy simulation. The algorithm is intended for low-depth unitary evolution and minimal qubits.
 # Project Name  
 Quantum-Enhanced Simulation of the 1D Burgers’ Equation Using the Hydrodynamic Schrödinger Equation Framework
+
+# Quantum-HSE-Burgers-Solver
+The HSE framework is used in this resource-efficient quantum solver for the 1D viscous Burgers' equation. Its features include validation against traditional CFD baselines, real QPU execution with error mitigation, and noiseless/noisy simulation. The algorithm is intended for low-depth unitary evolution and minimal qubits.
 
 # Team Name  
 HSE Solvers team
@@ -15,7 +16,7 @@ Click [here][1] to view the project description.
 
 ---
 
-# Project Summary 
+# Project Summary:
 
 A basic nonlinear partial differential equation, the 1D Burgers' equation simulates traffic dynamics, shock wave formation, and viscous fluid flow. Because of the nonlinearity and the requirement for precise spatial and temporal discretization, it combines nonlinear convection and diffusion effects, making classical numerical simulation difficult.
 
@@ -39,11 +40,12 @@ The algorithm is appropriate for noisy intermediate-scale quantum (NISQ) process
 
 Using the HSE framework to bridge the gap between quantum simulation and classical numerical methods, our project demonstrates a promising hybrid quantum-classical approach to solving nonlinear fluid dynamics PDEs. The foundation for scalable quantum simulations of intricate nonlinear systems is laid by this technique, which may find use in computational fluid dynamics and other fields.
 ---
-# 
+# Bibliography:
 -Meng, Z., Yang, J. Phys. Rev. Research 5 (2023). Hydrodynamic Schrödinger
 Equation framework.[Link to paper][2]
--[Qiskit Documentation][3]. 
-# Project Presentation
+-[Qiskit Documentation][3].
+
+# Project Presentation Deck:
 [Quantum Algorithm as a PDE Solver.pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
 
 [1]: https://www.thewiser.org/quantum-pde-solvers-for-cfd
