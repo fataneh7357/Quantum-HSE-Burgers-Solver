@@ -8,11 +8,14 @@ HSE Solvers team
 
 # Team Members  
 - Fataneh Bakherad — WISER Enrollment ID: gst-fTTTNAGPxE8rBql
-- Mehrdad Ghanbari Mobarakeh — WISER Enrollment ID: gst-WGFCK7KwaNLETQf  
+- Mehrdad Ghanbari Mobarakeh — WISER Enrollment ID: gst-WGFCK7KwaNLETQf
+
+# Project Description:
+Click [here] [1] to view the project description.
 
 ---
 
-# Project Summary (500 words)
+# Project Summary 
 
 A basic nonlinear partial differential equation, the 1D Burgers' equation simulates traffic dynamics, shock wave formation, and viscous fluid flow. Because of the nonlinearity and the requirement for precise spatial and temporal discretization, it combines nonlinear convection and diffusion effects, making classical numerical simulation difficult.
 
@@ -40,7 +43,7 @@ Using the HSE framework to bridge the gap between quantum simulation and classic
 # Project Presentation
 [Quantum Algorithm as a PDE Solver (1).pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
 
-
+[1]: https://www.thewiser.org/quantum-pde-solvers-for-cfd
 
 ---
 
