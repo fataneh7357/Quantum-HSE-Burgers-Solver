@@ -41,7 +41,7 @@ Using the HSE framework to bridge the gap between quantum simulation and classic
 ---
 
 # Project Presentation
-[Quantum Algorithm as a PDE Solver (1).pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
+[Quantum Algorithm as a PDE Solver.pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
 
 [1]: https://www.thewiser.org/quantum-pde-solvers-for-cfd
 
