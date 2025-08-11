@@ -49,7 +49,7 @@ Equation framework.[Link to paper][2]
 [Quantum Algorithm as a PDE Solver.pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
 
 # Algorithm Design Brief:
-[Quantum Algorithm as a PDE Solver.pdf](https://github.com/user-attachments/files/21708556/Quantum.Algorithm.as.a.PDE.Solver.pdf)
+[Quantum Algorithm as a PDE Solver.pdf](https://github.com/user-attachments/files/21708604/Quantum.Algorithm.as.a.PDE.Solver.pdf)
 
 
 [1]: https://www.thewiser.org/quantum-pde-solvers-for-cfd
