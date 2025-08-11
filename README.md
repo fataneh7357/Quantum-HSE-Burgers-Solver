@@ -39,11 +39,16 @@ The algorithm is appropriate for noisy intermediate-scale quantum (NISQ) process
 
 Using the HSE framework to bridge the gap between quantum simulation and classical numerical methods, our project demonstrates a promising hybrid quantum-classical approach to solving nonlinear fluid dynamics PDEs. The foundation for scalable quantum simulations of intricate nonlinear systems is laid by this technique, which may find use in computational fluid dynamics and other fields.
 ---
-
+# 
+-Meng, Z., Yang, J. Phys. Rev. Research 5 (2023). Hydrodynamic Schrödinger
+Equation framework.[Link to paper][2]
+-[Qiskit Documentation][3]. 
 # Project Presentation
 [Quantum Algorithm as a PDE Solver.pptx](https://github.com/user-attachments/files/21708316/Quantum.Algorithm.as.a.PDE.Solver.1.pptx)
 
 [1]: https://www.thewiser.org/quantum-pde-solvers-for-cfd
+[2]: https://arxiv.org/abs/2302.09741
+[3]: https://qiskit.org/documentation/
 
 ---
 
