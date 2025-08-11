@@ -11,7 +11,7 @@ HSE Solvers team
 - Mehrdad Ghanbari Mobarakeh — WISER Enrollment ID: gst-WGFCK7KwaNLETQf
 
 # Project Description:
-Click [here] [1] to view the project description.
+Click [here][1] to view the project description.
 
 ---
 
